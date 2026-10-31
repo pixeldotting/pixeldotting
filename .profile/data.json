@@ -1,8 +1,8 @@
 {
- "key": "896428d8",
+ "key": "6f9c8c27",
  "stars": 0,
- "contributions": 16,
- "repos": 3,
+ "contributions": 15,
+ "repos": 2,
  "followers": 0,
  "languages": [
   [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 4,
     "day": 31,
     "today": true
    }
@@ -153,15 +153,6 @@
  },
  "pins": [],
  "all": [
-  {
-   "name": "yapkai",
-   "url": "https://github.com/pixeldotting/yapkai",
-   "text": "Project SEKAI private server in Python",
-   "fork": true,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
   {
    "name": "pixeldotting",
    "url": "https://github.com/pixeldotting/pixeldotting",
