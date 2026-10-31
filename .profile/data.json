@@ -1,0 +1,175 @@
+{
+ "key": "f7f2daa6",
+ "stars": 0,
+ "contributions": 14,
+ "repos": 2,
+ "followers": 0,
+ "languages": [
+  [
+   "QML",
+   140507
+  ],
+  [
+   "C++",
+   79035
+  ],
+  [
+   "Lua",
+   21126
+  ],
+  [
+   "Nix",
+   16306
+  ],
+  [
+   "JavaScript",
+   5452
+  ],
+  [
+   "Python",
+   4047
+  ],
+  [
+   "CSS",
+   3016
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 31,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "pixeldotting",
+   "url": "https://github.com/pixeldotting/pixeldotting",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "pixeldots",
+   "url": "https://github.com/pixeldotting/pixeldots",
+   "text": "Hyprland shell? on quickshell",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  }
+ ]
+}

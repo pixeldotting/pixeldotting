@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Течь стак или как там блять "></picture>
 
-<a href="https://github.com/pixeldotting/pixeldots"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pixeldots-dark.svg"><img src="assets/project-pixeldots-light.svg" width="49%" alt="pixeldots"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
