@@ -1,5 +1,5 @@
 {
- "key": "cee79209",
+ "key": "dee16489",
  "stars": 0,
  "contributions": 16,
  "repos": 3,
@@ -142,8 +142,8 @@
  "pins": [],
  "all": [
   {
-   "name": "dubbbn",
-   "url": "https://github.com/pixeldotting/dubbbn",
+   "name": "dubstage",
+   "url": "https://github.com/pixeldotting/dubstage",
    "text": "Dub scenes from video yourself. DubForge cuts a video into speakable clips, DubStage records your voice line by line and plays the whole scene back with it.  Two Windows desktop tools, Python and ffmpeg, no accounts and no cloud.",
    "fork": true,
    "stars": 0,
