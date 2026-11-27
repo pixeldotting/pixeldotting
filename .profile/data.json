@@ -1,8 +1,8 @@
 {
- "key": "e3368113",
+ "key": "1aae5252",
  "stars": 0,
- "contributions": 25,
- "repos": 7,
+ "contributions": 26,
+ "repos": 8,
  "followers": 0,
  "languages": [
   [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 27,
     "today": true
    },
@@ -144,11 +144,20 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
  "pins": [],
  "all": [
+  {
+   "name": "VIctory-NVIDIA",
+   "url": "https://github.com/pixeldotting/VIctory-NVIDIA",
+   "text": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
   {
    "name": "paperbuild",
    "url": "https://github.com/pixeldotting/paperbuild",
